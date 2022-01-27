@@ -9,3 +9,4 @@ Screenshots of website:
 ![](images/Screenshot2.png)
 
 Links to website: https://github.com/aden-abdirahman/SEO-Refactor-HTML-Horizon
+Link to deployed website: https://aden-abdirahman.github.io/SEO-Refactor-HTML-Horizon/
